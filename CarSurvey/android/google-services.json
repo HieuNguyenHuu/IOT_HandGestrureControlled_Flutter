@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "678322309532",
+    "firebase_url": "https://mqtt-846f8.firebaseio.com",
+    "project_id": "mqtt-846f8",
+    "storage_bucket": "mqtt-846f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678322309532:android:2aa7553b90687d734c2059",
+        "android_client_info": {
+          "package_name": "com.example.CarSurvey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678322309532-oigpgvu2rpgul4389jnjlqg1g4th9at9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdVZESf7Tt_KA4CeEyo1sdZuCXroPWdGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678322309532-oigpgvu2rpgul4389jnjlqg1g4th9at9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
