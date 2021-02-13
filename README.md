@@ -107,8 +107,11 @@ In this project i using Firebase Realtime database to be the server like MQTT to
 Hieu Nguyen - [Linkedin](https://www.linkedin.com/in/hieunguyen-dev/)
 
 Linkedin: https://www.linkedin.com/in/hieunguyen-dev/
+
 Email: hnhieu979@gmail.com
+
 Phone: 0927931496
+
 Facebook: https://www.facebook.com/hieu.nguyenmixed
 
 Project Link: [https://github.com/HieuNguyenHuu/IOT_HandGestrureControlled_Flutter](https://github.com/HieuNguyenHuu/IOT_HandGestrureControlled_Flutter)
