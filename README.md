@@ -12,7 +12,7 @@
 
 ![demo](/demovideos/demo.gif)
 
-for more video in direction folder **"demo video"**
+for more video in direction folder **"demovideos"**
 
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
