@@ -10,7 +10,7 @@
 
 ## Demo 
 
-![demo](/demo video/demo.gif)
+![demo](/demovideos/demo.gif)
 
 for more video in direction folder **"demo video"**
 
